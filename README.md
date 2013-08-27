@@ -1,4 +1,4 @@
 hadoop-metrics
 ==============
 
-shows default metrics of Apache Hadoop
+Our goal is to document all of thedefault metrics of Apache Hadoop.
